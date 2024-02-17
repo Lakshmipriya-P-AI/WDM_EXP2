@@ -48,7 +48,7 @@ G40,high,yes,excellent,yes
 ### BANKING DATASET:
 ![2b1](https://github.com/Lakshmipriya-P-AI/WDM_EXP2/assets/93427923/0fef0ee8-59ab-4232-be87-d5d671060c6b)
 ### EMPLOYEE DATASET:
-![2c1](https://github.com/Lakshmipriya-P-AI/WDM_EXP2/assets/93427923/31df85d8-20a7-462d-87bf-fd4e8429e3c8)
+![2c11](https://github.com/Lakshmipriya-P-AI/WDM_EXP2/assets/93427923/ccb17775-e490-46a2-8ee1-f2587d21011b)
 
 ## PROCEDURE FOR ASSOCIATION RULES:
 1) Open Start -> Programs -> Accessories -> Notepad
