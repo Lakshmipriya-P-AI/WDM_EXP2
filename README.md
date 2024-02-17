@@ -64,7 +64,7 @@ G40,high,yes,excellent,yes
 ### BANKING DATASET:
 ![2b2](https://github.com/Lakshmipriya-P-AI/WDM_EXP2/assets/93427923/a3001fed-4157-4f19-acc7-5210f1a0e29f)
 ### EMPLOYEE DATASET:
-![2c2](https://github.com/Lakshmipriya-P-AI/WDM_EXP2/assets/93427923/577efcbd-c1bc-4ecf-bd10-f7cea5f7c56f)
+![2c2](https://github.com/Lakshmipriya-P-AI/WDM_EXP2/assets/93427923/cd65846b-a7ef-42f8-83b1-d4cfd16b08f9)
 
 ## RESULT: 
 Thus, generation of association rules using apriori algorithm is executed succesfully.
